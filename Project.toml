@@ -1,0 +1,26 @@
+name = "IsotopeTableDF"
+uuid = "c71ae3cc-a68c-42a6-9c9a-bb45e30452df"
+authors = ["Grigorii Starkov <mozgolom92@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+Measurements = "eff96d63-e80a-5855-80a2-b1b0885c5ab7"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+
+[compat]
+DataFrames = "^1.4.1"
+FileIO = "^1.16.0"
+JLD2 = "^0.4.25"
+Measurements = "^2.8.0"
+Unitful = "^1.12.0"
+julia = "^1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

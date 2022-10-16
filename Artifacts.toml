@@ -1,0 +1,13 @@
+[IsotopesData]
+git-tree-sha1 = "1677a3215f247b4ad70c85cc0ca6033bdc0a8127"
+
+    [[IsotopesData.download]]
+    sha256 = "f2e1bf74431b6ec575c4cc8cf65b702ef893a8434ca5eac7b9fed28e48483ce4"
+    url = "https://github.com/Gregstrq/Isotope-data/raw/main/isotopes_data.tar.gz"
+
+["isotopes_data.jld2"]
+git-tree-sha1 = "1677a3215f247b4ad70c85cc0ca6033bdc0a8127"
+
+    [["isotopes_data.jld2".download]]
+    sha256 = "f2e1bf74431b6ec575c4cc8cf65b702ef893a8434ca5eac7b9fed28e48483ce4"
+    url = "https://github.com/Gregstrq/Isotope-data/raw/main/isotopes_data.tar.gz"
