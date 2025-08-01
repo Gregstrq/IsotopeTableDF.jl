@@ -1,7 +1,7 @@
 name = "IsotopeTableDF"
 uuid = "c71ae3cc-a68c-42a6-9c9a-bb45e30452df"
 authors = ["Grigorii Starkov <mozgolom92@gmail.com>"]
-version = "0.1.0"
+version = "0.2.0"
 
 [deps]
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"

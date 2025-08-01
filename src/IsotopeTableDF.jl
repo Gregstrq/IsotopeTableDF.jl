@@ -6,7 +6,7 @@ using Artifacts
 export isotopes_df
 
 
-const isotopes_df = load(joinpath(artifact"IsotopesData", "isotopes_data.jld2"), "isotopes")
+const isotopes_df = load(joinpath(artifact"isotopes_data.jld2", "isotopes_data.jld2"), "isotopes")
 
 
 end # module
