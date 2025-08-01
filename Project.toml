@@ -14,7 +14,7 @@ Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 [compat]
 DataFrames = "^1.4.1"
 FileIO = "^1.16.0"
-JLD2 = "^0.4.25"
+JLD2 = "^0.4.25, 0.5"
 Measurements = "^2.8.0"
 Unitful = "^1.12.0"
 julia = "^1"
