@@ -12,6 +12,7 @@ Measurements = "eff96d63-e80a-5855-80a2-b1b0885c5ab7"
 Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 
 [compat]
+Artifacts = "1"
 DataFrames = "^1.4.1"
 FileIO = "^1.16.0"
 JLD2 = "^0.5"
